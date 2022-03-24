@@ -1,7 +1,7 @@
 {
   "name": "trigan-ordering-system",
   "version": "1.0.0",
-  "description": "a simple ordering api with stripe integration",
+  "description": "a simple starter for graphql projects",
   "main": "index.js",
   "scripts": {
     "test": "jest",
@@ -20,9 +20,9 @@
   "author": "ghiwotselam@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/windswept321/trigan-ordering-system-nodejs/issues"
+    "url": "https://github.com/windswept321/trigan-ordering-system-nodejs.git/issues"
   },
-  "homepage": "https://github.com/windswept321/trigan-ordering-system-nodejs#readme",
+  "homepage": "https://github.com/windswept321/trigan-ordering-system-nodejs.git#readme",
   "dependencies": {
     "apollo-server-express": "^2.25.3",
     "axios": "^0.24.0",
